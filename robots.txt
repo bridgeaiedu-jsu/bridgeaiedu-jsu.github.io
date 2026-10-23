@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 Sitemap: https://bridgeaiedu-jsu.github.io/sitemap.xml
 Sitemap: https://bridgeaiedu-jsu.github.io/video-sitemap.xml
+
+#DaumWebMasterTool:18497774d4f15628f56611e756facf9f7baa48eeb40f0c217b4684a4a3552118:WoYFtMaR84eZ7MaX1Xjw9A==
